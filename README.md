@@ -295,12 +295,6 @@ INSERT INTO account (username, password, authority) VALUES ('teacher', '666666',
 </mapper>
 ```
 
-![查看个人信息](https://github.com/hao297531173/studentManageSystem/blob/master/image/1.PNG)
-
-![查看培养计划](https://github.com/hao297531173/studentManageSystem/blob/master/image/2.PNG)
-
-![查看成绩单](https://github.com/hao297531173/studentManageSystem/blob/master/image/3.PNG)
-
 #### 老师可以使用的功能
 
 - 添加班级表
@@ -368,12 +362,6 @@ INSERT INTO account (username, password, authority) VALUES ('teacher', '666666',
 
 </mapper>
 ```
-
-![写入班级信息](https://github.com/hao297531173/studentManageSystem/blob/master/image/4.PNG)
-
-![写入学生信息](https://github.com/hao297531173/studentManageSystem/blob/master/image/5.png)
-
-![删除学生信息](https://github.com/hao297531173/studentManageSystem/blob/master/image/6.png)
 
 #### 分页写法
 
